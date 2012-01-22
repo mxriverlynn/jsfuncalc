@@ -12,4 +12,5 @@ group :development do
   gem 'guard'
   gem 'guard-process'
   gem 'guard-compass'
+  gem 'jasmine'
 end
